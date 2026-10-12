@@ -1,6 +1,6 @@
 {
-  "name": "Makine Kontrol Raporu",
-  "short_name": "Kontrol Raporu",
+  "name": "Centriplus Sevk Kontrol",
+  "short_name": "Sevk Kontrol",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
